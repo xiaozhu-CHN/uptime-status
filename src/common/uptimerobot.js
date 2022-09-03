@@ -6,7 +6,8 @@ export async function GetMonitors(apikey, days) {
 
   const dates = [];
   const today = dayjs(new Date().setHours(0, 0, 0, 0));
-  for (let d = 0; d < days; d++) {
+  for (let d = days; d > 0; d--) {
+    console.log(d);
     dates.push(today.subtract(d, 'day'));
   }
 
