@@ -5,7 +5,7 @@
 
 一个基于 UptimeRobot API 的在线状态面板
 
-<img width="1152" alt="image" src="https://photo.benzhu.xyz/images/2022/09/04/a3jgDFjXZdhioMNl.png">
+<img width="1152" alt="image" src="https://photo.benzhu.xyz/data/2023/07/22/xotemr.png">
 
 ## 事先准备
 
